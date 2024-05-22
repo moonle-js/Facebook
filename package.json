@@ -11,11 +11,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.3"
   },
+  "homepage": "https://moonle-js.github.io/Facebook",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Facebook/static/css/main.dc8c0434.css",
+    "main.js": "/Facebook/static/js/main.e534ee9e.js",
+    "static/media/dislike.svg": "/Facebook/static/media/dislike.fa8170cf789bafba9b9ffd45414e3692.svg",
+    "static/media/like.svg": "/Facebook/static/media/like.87c122c83375ca6b7963c3bdd8c4901e.svg",
+    "index.html": "/Facebook/index.html",
+    "main.dc8c0434.css.map": "/Facebook/static/css/main.dc8c0434.css.map",
+    "main.e534ee9e.js.map": "/Facebook/static/js/main.e534ee9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8c0434.css",
+    "static/js/main.e534ee9e.js"
+  ]
+}
